@@ -17,6 +17,7 @@ https://github.com/ELK23/devops-deplom-yandexcloud
 Репозиторий с Dockerfile тестового приложения и ссылка на собранный docker image.
 
 https://github.com/ELK23/test-app
+https://hub.docker.com/r/lagrangel/test-app
 
 Репозиторий с конфигурацией Kubernetes кластера.
 
